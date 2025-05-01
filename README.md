@@ -1,1 +1,1 @@
-The Caesar cipher, which can not be considered secure today, replaced each letter of the alphabet with the letter occurring three positions later or 23 positions earlier in the alphabet: A becomes D, B becomes E, X becomes A, and so forth. A generalized version of the Caesar cipher is an alphabetic substitution cipher.
+The Caesar cipher is a simple substitution cipher where each letter in the plaintext is shifted a fixed number of positions down the alphabet. It's named after Julius Caesar, who is said to have used it for encryption. 

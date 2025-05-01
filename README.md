@@ -1,2 +1,1 @@
-# caesar-cipher
-caesar cipher
+The Caesar cipher, which can not be considered secure today, replaced each letter of the alphabet with the letter occurring three positions later or 23 positions earlier in the alphabet: A becomes D, B becomes E, X becomes A, and so forth. A generalized version of the Caesar cipher is an alphabetic substitution cipher.
